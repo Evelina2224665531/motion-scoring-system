@@ -1,0 +1,11 @@
+.venv/
+.pose-venv/
+.pose-deps/
+.local-rknn-model-zoo/
+__pycache__/
+*.py[cod]
+.pose-demo/*.onnx
+.pose-demo/*.jpg
+.pose-demo/*.png
+.pose-demo/*.avi
+test/
